@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Open+Sans:ital,wght@0,400;0,700;1,300&display=swap');
 
 *{
+    box-sizing: border-box;
     font-family: 'Open Sans', sans-serif ;
+}
+header{
+    background-color: #4D41C0;
+    color: #fff;
+}
+html, body{
+    background-color: #e8e8e8;
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: unset;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
