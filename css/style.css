@@ -11,13 +11,13 @@ header{
 html, body{
     background-color: #e8e8e8;
 }
-
-a, a:hover{
-    text-decoration: none;
-    color: unset;
-}
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: unset;
 }
