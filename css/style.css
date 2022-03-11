@@ -95,3 +95,9 @@ nav h1{
     justify-content: center;
     border-radius: 4px;
 }
+
+/*FORM*/
+.dsmovie-form-container{
+    padding: 40px 0;
+    
+}
